@@ -1,0 +1,9 @@
+COMPANY_KEYWORDS = ("LTD", "LTD.", "INC", "INC.", "PARTNERSHIP", "COMMUNITY", "LIMITED PARTNERSHIP", "ENTERPRISES",
+                    "PROPERTIES", "APARTMENTS", "REALTY", "GROUP", "HOUSING", "REAL ESTATE",
+                    "LLC", "L L C", "ENTERPRISE", "COMPANY", "LLLP. LIMITED", "LIABILITY",
+                    "PARTNERSHIP", "PARTNER", "CORPORATION", "SYSTEM", "INVESTMENT", "INVESTMENTS",
+                    "MANAGEMENT", "HOUSING", "AUTHORITY", "CAPITAL", "SOCIEDAD", "LEGAL", "CHURCH",
+                    "TRUST", "TRUSTEE", "PARK", "CORP", "CORP.", "EXPRESS", "L.L.C.", "CONDOMINUM", "CONDO",
+                    "COMPLEX", "INTL", "MISSIONARY", "GOD", "ASSOCIATION", "AUTO", "REPAIR", "TOWN", "BOX", "CLUB",
+                    "ASSOCIATES", "DEVELOPMENT", "FOUNDATION",
+                    )
